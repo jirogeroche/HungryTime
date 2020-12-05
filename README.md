@@ -10,6 +10,4 @@ Nilagay ko lang po lahat ng mga java and xml files. Pero iuupload ko nalang din 
 Mag poprovide nalang po ako ng google drive which contains the excel progress file, zip file, video update, github link, and mockups screen shots. Thank you !!
 
 
-
-
-                                                                                                                                                  Submitted on: December 5, 2020
+Submitted on: December 5, 2020
